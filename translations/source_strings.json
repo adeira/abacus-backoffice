@@ -1,0 +1,817 @@
+{
+ "phrases": [
+  {
+   "hashToText": {
+    "XKQt/WzTgsZemYhMzTVAuw==": "Some unknown error happened"
+   },
+   "filepath": "src/AuthButtons.js",
+   "line_beg": 43,
+   "col_beg": 24,
+   "line_end": 43,
+   "col_end": 81,
+   "desc": "login unknown error",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Some unknown error happened"
+  },
+  {
+   "hashToText": {
+    "XKQt/WzTgsZemYhMzTVAuw==": "Some unknown error happened"
+   },
+   "filepath": "src/AuthButtons.js",
+   "line_beg": 49,
+   "col_beg": 20,
+   "line_end": 49,
+   "col_end": 77,
+   "desc": "login unknown error",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Some unknown error happened"
+  },
+  {
+   "hashToText": {
+    "ZmoOgkWDunmOx3U/8Us9hg==": "Logout"
+   },
+   "filepath": "src/AuthButtons.js",
+   "line_beg": 98,
+   "col_beg": 6,
+   "line_end": 98,
+   "col_end": 50,
+   "desc": "logout button title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Logout"
+  },
+  {
+   "hashToText": {
+    "Qa3mUMhym3NPzuJNq7P/Ng==": "List of employees"
+   },
+   "filepath": "src/employees/EmployeesPageLayout.js",
+   "line_beg": 17,
+   "col_beg": 12,
+   "line_end": 17,
+   "col_end": 71,
+   "desc": "list of employees title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "List of employees"
+  },
+  {
+   "hashToText": {
+    "SP/3TZcgzHIb1tmGv1Z/lg==": "Loading…"
+   },
+   "filepath": "src/Layout.js",
+   "line_beg": 25,
+   "col_beg": 24,
+   "line_end": 25,
+   "col_end": 89,
+   "desc": "loading message when loading some data",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Loading…"
+  },
+  {
+   "hashToText": {
+    "e/n6AkcscCXFzdEDdJ1neg==": "Ledger"
+   },
+   "filepath": "src/ledger/LedgerPageLayout.js",
+   "line_beg": 16,
+   "col_beg": 12,
+   "line_end": 16,
+   "col_end": 54,
+   "desc": "ledger page title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Ledger"
+  },
+  {
+   "hashToText": {
+    "1rXwpKPkPHMs9WWQt7wCRQ==": "abacus emoji"
+   },
+   "filepath": "src/Navigation.js",
+   "line_beg": 16,
+   "col_beg": 36,
+   "line_end": 16,
+   "col_end": 85,
+   "desc": "abacus emoji label",
+   "project": "",
+   "type": "text",
+   "jsfbt": "abacus emoji"
+  },
+  {
+   "hashToText": {
+    "EX/o2WuR0ou1BNovRq6qGw==": "Home"
+   },
+   "filepath": "src/Navigation.js",
+   "line_beg": 20,
+   "col_beg": 8,
+   "line_end": 20,
+   "col_end": 62,
+   "desc": "navigation link to the homepage",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Home"
+  },
+  {
+   "hashToText": {
+    "LoFyLbW8JA2D6AsDR+C2sw==": "Products"
+   },
+   "filepath": "src/Navigation.js",
+   "line_beg": 23,
+   "col_beg": 8,
+   "line_end": 23,
+   "col_end": 62,
+   "desc": "navigation link to products",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Products"
+  },
+  {
+   "hashToText": {
+    "c3mR1ZSr1gvq0r3554Bsmg==": "Employees"
+   },
+   "filepath": "src/Navigation.js",
+   "line_beg": 26,
+   "col_beg": 8,
+   "line_end": 26,
+   "col_end": 64,
+   "desc": "navigation link to employees",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Employees"
+  },
+  {
+   "hashToText": {
+    "sHHk/SaT51d5NWanXexMiw==": "Ledger"
+   },
+   "filepath": "src/Navigation.js",
+   "line_beg": 29,
+   "col_beg": 8,
+   "line_end": 29,
+   "col_end": 58,
+   "desc": "navigation link to ledger",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Ledger"
+  },
+  {
+   "hashToText": {
+    "uKUaGDYLMNYdVKPaqadikQ==": "Open POS"
+   },
+   "filepath": "src/Navigation.js",
+   "line_beg": 33,
+   "col_beg": 8,
+   "line_end": 33,
+   "col_end": 68,
+   "desc": "navigation link to point of sales",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Open POS"
+  },
+  {
+   "hashToText": {
+    "bK+ktgyahP617ibw4AAiBg==": "Oh no! Something is broken."
+   },
+   "filepath": "src/pos/POSCheckoutFailurePageLayout.js",
+   "line_beg": 24,
+   "col_beg": 8,
+   "line_end": 24,
+   "col_end": 84,
+   "desc": "oh no failure checkout message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Oh no! Something is broken."
+  },
+  {
+   "hashToText": {
+    "5Of4p7aMGeNd1YsvRknZvQ==": "emoji with raised eyebrow"
+   },
+   "filepath": "src/pos/POSCheckoutFailurePageLayout.js",
+   "line_beg": 26,
+   "col_beg": 17,
+   "line_end": 26,
+   "col_end": 92,
+   "desc": "emoji with raised eyebrow label",
+   "project": "",
+   "type": "text",
+   "jsfbt": "emoji with raised eyebrow"
+  },
+  {
+   "hashToText": {
+    "s8rtQvFOZDW+FkdYzzzvlw==": "What now? Please, write down the checkout items ({=what, how many, for how much}) and continue with the sales to make sure customers are happy. Also, please, {=let us know} as soon as possible!"
+   },
+   "filepath": "src/pos/POSCheckoutFailurePageLayout.js",
+   "line_beg": 30,
+   "col_beg": 10,
+   "line_end": 35,
+   "col_end": 16,
+   "desc": "checkout failure help message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "What now? Please, write down the checkout items ({=what, how many, for how much}) and continue with the sales to make sure customers are happy. Also, please, {=let us know} as soon as possible!"
+  },
+  {
+   "hashToText": {
+    "egBP6SSzVrgpJrhdIdlR2A==": "what, how many, for how much"
+   },
+   "filepath": "src/pos/POSCheckoutFailurePageLayout.js",
+   "line_beg": 31,
+   "col_beg": 61,
+   "line_end": 33,
+   "col_end": 21,
+   "desc": "In the phrase: \"What now? Please, write down the checkout items ({=what, how many, for how much}) and continue with the sales to make sure customers are happy. Also, please,{=let us know} as soon as possible!\"",
+   "project": "",
+   "type": "text",
+   "jsfbt": "what, how many, for how much"
+  },
+  {
+   "hashToText": {
+    "Li6yQ40dR8ad7DoBK/xCGg==": "let us know"
+   },
+   "filepath": "src/pos/POSCheckoutFailurePageLayout.js",
+   "line_beg": 34,
+   "col_beg": 12,
+   "line_end": 34,
+   "col_end": 40,
+   "desc": "In the phrase: \"What now? Please, write down the checkout items ({=what, how many, for how much}) and continue with the sales to make sure customers are happy. Also, please,{=let us know} as soon as possible!\"",
+   "project": "",
+   "type": "text",
+   "jsfbt": "let us know"
+  },
+  {
+   "hashToText": {
+    "ixWIW0sWjo/M0DaH+nE0Ug==": "Start a new POS session"
+   },
+   "filepath": "src/pos/POSCheckoutFailurePageLayout.js",
+   "line_beg": 40,
+   "col_beg": 8,
+   "line_end": 40,
+   "col_end": 80,
+   "desc": "start a new POS session button",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Start a new POS session"
+  },
+  {
+   "hashToText": {
+    "Uwsynldmzkm43wwA8z+rWQ==": "Are you sure you want to reset the checkout session and start over? All selected items will be removed."
+   },
+   "filepath": "src/pos/POSCheckoutPageLayout.js",
+   "line_beg": 64,
+   "col_beg": 8,
+   "line_end": 67,
+   "col_end": 9,
+   "desc": "reset checkout session confirmation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Are you sure you want to reset the checkout session and start over? All selected items will be removed."
+  },
+  {
+   "hashToText": {
+    "T61CEaVqIFGOoto/TXxy5A==": "⬅ Go back"
+   },
+   "filepath": "src/pos/POSCheckoutPageLayout.js",
+   "line_beg": 79,
+   "col_beg": 10,
+   "line_end": 79,
+   "col_end": 57,
+   "desc": "go back to POS text",
+   "project": "",
+   "type": "text",
+   "jsfbt": "⬅ Go back"
+  },
+  {
+   "hashToText": {
+    "X15wJnkWMiCincs1C+MeFw==": "Did you receive the money?"
+   },
+   "filepath": "src/pos/POSCheckoutPageLayout.js",
+   "line_beg": 89,
+   "col_beg": 8,
+   "line_end": 89,
+   "col_end": 88,
+   "desc": "checkout question before continuing",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Did you receive the money?"
+  },
+  {
+   "hashToText": {
+    "MfLT6Yq4YBMxi+dW96zMNg==": "Yes, finish checkout"
+   },
+   "filepath": "src/pos/POSCheckoutPageLayout.js",
+   "line_beg": 98,
+   "col_beg": 10,
+   "line_end": 98,
+   "col_end": 77,
+   "desc": "process checkout button text",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Yes, finish checkout"
+  },
+  {
+   "hashToText": {
+    "P3UvwgozOxL8sg8ODM5D/A==": "No, start over"
+   },
+   "filepath": "src/pos/POSCheckoutPageLayout.js",
+   "line_beg": 106,
+   "col_beg": 10,
+   "line_end": 106,
+   "col_end": 69,
+   "desc": "reset checkout button text",
+   "project": "",
+   "type": "text",
+   "jsfbt": "No, start over"
+  },
+  {
+   "hashToText": {
+    "+WJ8s6/GCuVjuiX9CDxdzg==": "Well done!"
+   },
+   "filepath": "src/pos/POSCheckoutSuccessPageLayout.js",
+   "line_beg": 14,
+   "col_beg": 8,
+   "line_end": 14,
+   "col_end": 71,
+   "desc": "well done checkout success message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Well done!"
+  },
+  {
+   "hashToText": {
+    "xOnN5FZLRgGOCj72rGTwhg==": "thumbs up"
+   },
+   "filepath": "src/pos/POSCheckoutSuccessPageLayout.js",
+   "line_beg": 15,
+   "col_beg": 22,
+   "line_end": 15,
+   "col_end": 71,
+   "desc": "thumbs up emoji label",
+   "project": "",
+   "type": "text",
+   "jsfbt": "thumbs up"
+  },
+  {
+   "hashToText": {
+    "ZG+l+9644F97vASBBKmFzg==": "You can now go back and serve another customer!"
+   },
+   "filepath": "src/pos/POSCheckoutSuccessPageLayout.js",
+   "line_beg": 17,
+   "col_beg": 10,
+   "line_end": 19,
+   "col_end": 16,
+   "desc": "success checkout help message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "You can now go back and serve another customer!"
+  },
+  {
+   "hashToText": {
+    "ixWIW0sWjo/M0DaH+nE0Ug==": "Start a new POS session"
+   },
+   "filepath": "src/pos/POSCheckoutSuccessPageLayout.js",
+   "line_beg": 23,
+   "col_beg": 8,
+   "line_end": 23,
+   "col_end": 80,
+   "desc": "start a new POS session button",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Start a new POS session"
+  },
+  {
+   "hashToText": {
+    "9uWJJI15gvfuaDi3bpoT2w==": "Nothing selected yet"
+   },
+   "filepath": "src/pos/ProductsSelected.js",
+   "line_beg": 18,
+   "col_beg": 10,
+   "line_end": 18,
+   "col_end": 85,
+   "desc": "text when nothing is selected in POS",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Nothing selected yet"
+  },
+  {
+   "hashToText": {
+    "EAFd1PD0L8GS/sTNRO5dzA==": "{totalSelectedItems} items for {totalPrice}"
+   },
+   "filepath": "src/pos/ProductsSelected.js",
+   "line_beg": 49,
+   "col_beg": 8,
+   "line_end": 54,
+   "col_end": 14,
+   "desc": "summary of selected items in POS",
+   "project": "",
+   "type": "text",
+   "jsfbt": "{totalSelectedItems} items for {totalPrice}"
+  },
+  {
+   "hashToText": {
+    "nIpABsKUotYCJOCxk8ZWTg==": "Proceed to checkout"
+   },
+   "filepath": "src/pos/ProductsSelected.js",
+   "line_beg": 62,
+   "col_beg": 10,
+   "line_end": 62,
+   "col_end": 69,
+   "desc": "checkout button title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Proceed to checkout"
+  },
+  {
+   "hashToText": {
+    "EIVU1wJ5opAD+tU9JLao5Q==": "Product {product name} created! ✅"
+   },
+   "filepath": "src/products/CreateProductForm.js",
+   "line_beg": 88,
+   "col_beg": 14,
+   "line_end": 94,
+   "col_end": 20,
+   "desc": "product created success message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product {product name} created! ✅"
+  },
+  {
+   "hashToText": {
+    "DG4YwlsppzoioQ32fEtyQQ==": "Something unexpected happened and server could not process the request! 🙈"
+   },
+   "filepath": "src/products/CreateProductForm.js",
+   "line_beg": 105,
+   "col_beg": 19,
+   "line_end": 108,
+   "col_end": 11,
+   "desc": "generic failure message after creating a product",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Something unexpected happened and server could not process the request! 🙈"
+  },
+  {
+   "hashToText": {
+    "pK1f3pHBA7GNzXNFxoeWlw==": "Create a new product"
+   },
+   "filepath": "src/products/CreateProductForm.js",
+   "line_beg": 118,
+   "col_beg": 8,
+   "line_end": 118,
+   "col_end": 86,
+   "desc": "create product form submit button title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Create a new product"
+  },
+  {
+   "hashToText": {
+    "PuBcEtz2gVA/g2IgDKLtDg==": "English product name version is required"
+   },
+   "filepath": "src/products/createProductFormSchema.js",
+   "line_beg": 15,
+   "col_beg": 6,
+   "line_end": 15,
+   "col_end": 99,
+   "desc": "english name form field validation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "English product name version is required"
+  },
+  {
+   "hashToText": {
+    "KEevPPim20vMq3ey4NmXcQ==": "Spanish product name version is required"
+   },
+   "filepath": "src/products/createProductFormSchema.js",
+   "line_beg": 19,
+   "col_beg": 6,
+   "line_end": 19,
+   "col_end": 99,
+   "desc": "spanish name form field validation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Spanish product name version is required"
+  },
+  {
+   "hashToText": {
+    "hG18c6F/tkr5u5MuaDp4ug==": "Product price is a required field"
+   },
+   "filepath": "src/products/createProductFormSchema.js",
+   "line_beg": 26,
+   "col_beg": 16,
+   "line_end": 26,
+   "col_end": 95,
+   "desc": "price form field validation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product price is a required field"
+  },
+  {
+   "hashToText": {
+    "yzI38uykFY/ub9AvbwWW7g==": "Product price must be a positive number"
+   },
+   "filepath": "src/products/createProductFormSchema.js",
+   "line_beg": 29,
+   "col_beg": 8,
+   "line_end": 29,
+   "col_end": 93,
+   "desc": "price form field validation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product price must be a positive number"
+  },
+  {
+   "hashToText": {
+    "SNkT0X9e8R3/FZ7ymMs5Zg==": "Product {product name} (rev: {product revision}) updated! ✅"
+   },
+   "filepath": "src/products/EditProductForm.js",
+   "line_beg": 141,
+   "col_beg": 14,
+   "line_end": 150,
+   "col_end": 20,
+   "desc": "product updated success message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product {product name} (rev: {product revision}) updated! ✅"
+  },
+  {
+   "hashToText": {
+    "DG4YwlsppzoioQ32fEtyQQ==": "Something unexpected happened and server could not process the request! 🙈"
+   },
+   "filepath": "src/products/EditProductForm.js",
+   "line_beg": 163,
+   "col_beg": 19,
+   "line_end": 166,
+   "col_end": 11,
+   "desc": "generic failure message after creating a product",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Something unexpected happened and server could not process the request! 🙈"
+  },
+  {
+   "hashToText": {
+    "JMYEEAMkkTyu/f/wera8pw==": "Save changes"
+   },
+   "filepath": "src/products/EditProductForm.js",
+   "line_beg": 175,
+   "col_beg": 25,
+   "line_end": 175,
+   "col_end": 93,
+   "desc": "edit product form submit button title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Save changes"
+  },
+  {
+   "hashToText": {
+    "N4YZT+GlkQir3UlP1/V2Og==": "Edit product"
+   },
+   "filepath": "src/products/EditProductHeading.js",
+   "line_beg": 85,
+   "col_beg": 10,
+   "line_end": 85,
+   "col_end": 66,
+   "desc": "edit product page heading",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Edit product"
+  },
+  {
+   "hashToText": {
+    "kZSl2UcMZDzRSCGJm9hDkw==": "Products inventory"
+   },
+   "filepath": "src/products/EditProductHeading.js",
+   "line_beg": 90,
+   "col_beg": 8,
+   "line_end": 90,
+   "col_end": 82,
+   "desc": "go back to products navigation button",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Products inventory"
+  },
+  {
+   "hashToText": {
+    "g9GOZIQozBqrdHGmtzrbCQ==": "Are you sure you want to delete the product?"
+   },
+   "filepath": "src/products/EditProductHeading.js",
+   "line_beg": 100,
+   "col_beg": 10,
+   "line_end": 102,
+   "col_end": 16,
+   "desc": "delete product confirmation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Are you sure you want to delete the product?"
+  },
+  {
+   "hashToText": {
+    "4EbSLFooTnt+yUPhqoWp/g==": "Delete product"
+   },
+   "filepath": "src/products/EditProductHeading.js",
+   "line_beg": 106,
+   "col_beg": 8,
+   "line_end": 106,
+   "col_end": 73,
+   "desc": "delete product navigation button",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Delete product"
+  },
+  {
+   "hashToText": {
+    "tiWuhsZnYZAq7WNxH1zdCw==": "Are you sure you want to publish this product?"
+   },
+   "filepath": "src/products/EditProductHeadingPublishUnpublish.js",
+   "line_beg": 64,
+   "col_beg": 8,
+   "line_end": 66,
+   "col_end": 14,
+   "desc": "publish product button confirmation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Are you sure you want to publish this product?"
+  },
+  {
+   "hashToText": {
+    "3qz/xqX+Nv7bYwQCSNXWdQ==": "Publish product"
+   },
+   "filepath": "src/products/EditProductHeadingPublishUnpublish.js",
+   "line_beg": 95,
+   "col_beg": 6,
+   "line_end": 95,
+   "col_end": 68,
+   "desc": "publish product button title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Publish product"
+  },
+  {
+   "hashToText": {
+    "C4qCSxncQzzV9OUj0otgUg==": "Are you sure you want to unpublish this product?"
+   },
+   "filepath": "src/products/EditProductHeadingPublishUnpublish.js",
+   "line_beg": 100,
+   "col_beg": 8,
+   "line_end": 102,
+   "col_end": 14,
+   "desc": "unpublish product button confirmation message",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Are you sure you want to unpublish this product?"
+  },
+  {
+   "hashToText": {
+    "6dllpbI8j5n7Rlcf+LAS/Q==": "Unpublish product"
+   },
+   "filepath": "src/products/EditProductHeadingPublishUnpublish.js",
+   "line_beg": 131,
+   "col_beg": 6,
+   "line_end": 131,
+   "col_end": 70,
+   "desc": "publish product button title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Unpublish product"
+  },
+  {
+   "hashToText": {
+    "aPUJdpL8vp5qfKNsFMmsDw==": "Product name (English)"
+   },
+   "filepath": "src/products/form/ProductForm.js",
+   "line_beg": 46,
+   "col_beg": 14,
+   "line_end": 46,
+   "col_end": 98,
+   "desc": "form field name for product name in english",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product name (English)"
+  },
+  {
+   "hashToText": {
+    "If15Rd9UqwSa2ctF1W+gGw==": "Product name (Spanish)"
+   },
+   "filepath": "src/products/form/ProductForm.js",
+   "line_beg": 54,
+   "col_beg": 14,
+   "line_end": 54,
+   "col_end": 98,
+   "desc": "form field name for product name in spanish",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product name (Spanish)"
+  },
+  {
+   "hashToText": {
+    "fIkIODIEZUcYs7jnbKCMbQ==": "Product description (English)"
+   },
+   "filepath": "src/products/form/ProductForm.js",
+   "line_beg": 62,
+   "col_beg": 14,
+   "line_end": 64,
+   "col_end": 20,
+   "desc": "form field name for product description in english",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product description (English)"
+  },
+  {
+   "hashToText": {
+    "0JhgWnXU3GS2BSJv0aKTSA==": "Product description (Spanish)"
+   },
+   "filepath": "src/products/form/ProductForm.js",
+   "line_beg": 72,
+   "col_beg": 14,
+   "line_end": 74,
+   "col_end": 20,
+   "desc": "form field name for product description in spanish",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product description (Spanish)"
+  },
+  {
+   "hashToText": {
+    "r84jIlbvbpbZx8MqJ0A94w==": "Price (MXN)"
+   },
+   "filepath": "src/products/form/ProductForm.js",
+   "line_beg": 82,
+   "col_beg": 14,
+   "line_end": 82,
+   "col_end": 77,
+   "desc": "form field name for product price",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Price (MXN)"
+  },
+  {
+   "hashToText": {
+    "lZD4GtdtmFDnxD98aPVEUw==": "Product pictures"
+   },
+   "filepath": "src/products/form/ProductForm.js",
+   "line_beg": 90,
+   "col_beg": 14,
+   "line_end": 90,
+   "col_end": 85,
+   "desc": "form field name for product pictures",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Product pictures"
+  },
+  {
+   "hashToText": {
+    "0BsTiPapD1k7SKNIyzq9Og==": "Products inventory"
+   },
+   "filepath": "src/products/ProductsPageLayout.js",
+   "line_beg": 20,
+   "col_beg": 12,
+   "line_end": 20,
+   "col_end": 72,
+   "desc": "product inventory title",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Products inventory"
+  },
+  {
+   "hashToText": {
+    "H4nmh2EfCNqj/R7wbLia9w==": "Create a new product"
+   },
+   "filepath": "src/products/ProductsPageLayout.js",
+   "line_beg": 25,
+   "col_beg": 10,
+   "line_end": 25,
+   "col_end": 78,
+   "desc": "link for create a new product",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Create a new product"
+  },
+  {
+   "hashToText": {
+    "D+WsTLSMdok9SuNN16agEQ==": "Create a new product"
+   },
+   "filepath": "pages/products/create.js",
+   "line_beg": 20,
+   "col_beg": 12,
+   "line_end": 20,
+   "col_end": 84,
+   "desc": "create a new product page heading",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Create a new product"
+  },
+  {
+   "hashToText": {
+    "kZSl2UcMZDzRSCGJm9hDkw==": "Products inventory"
+   },
+   "filepath": "pages/products/create.js",
+   "line_beg": 25,
+   "col_beg": 10,
+   "line_end": 25,
+   "col_end": 84,
+   "desc": "go back to products navigation button",
+   "project": "",
+   "type": "text",
+   "jsfbt": "Products inventory"
+  }
+ ],
+ "childParentMappings": {}
+}
